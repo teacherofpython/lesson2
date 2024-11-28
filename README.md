@@ -1,10 +1,1 @@
-![Снимок экрана 2024-11-28 164213](https://github.com/user-attachments/assets/3905c8b7-5745-4d4e-bcb2-10e30ff569a5)
-![Снимок экрана 2024-11-28 164238](https://github.com/user-attachments/assets/91f69322-e144-4999-9a81-8f67cb4ca213)
-![Снимок экрана 2024-11-28 164255](https://github.com/user-attachments/assets/ec7d7458-921c-4a93-9a65-ced23ebf89ab)
-![Снимок экрана 2024-11-28 164317](https://github.com/user-attachments/assets/f366c51d-d66d-46b2-ad22-dd79aab955b6)
-![Снимок экрана 2024-11-28 164337](https://github.com/user-attachments/assets/03cea184-f960-43c2-b1d1-a556f4f6f24a)
-![Снимок экрана 2024-11-28 164404](https://github.com/user-attachments/assets/8890a098-467e-4c68-a639-bd4e763660d7)
-![Снимок экрана 2024-11-28 164426](https://github.com/user-attachments/assets/06c47b0f-9b1e-48e9-825c-19f4148d5f7c)
-![Снимок экрана 2024-11-28 164454](https://github.com/user-attachments/assets/bd784550-8466-45bb-93c1-866487b37020)
-![Снимок экрана 2024-11-28 164529](https://github.com/user-attachments/assets/238b7d54-7257-44e2-a319-3de751cd9e22)
-![Снимок экрана 2024-11-28 164546](https://github.com/user-attachments/assets/4ecb55c0-d04a-4a75-9d65-fc0d5ceee37a)
+
